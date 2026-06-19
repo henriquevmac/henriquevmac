@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Henrique 👋</h1>
 
 <p align="center">
-  Software Engineer & CS Master's student in Lisbon — building full-stack products with a focus on AI.
+  Software Engineer & CS Master's student in Lisbon, building full-stack products with a focus on AI.
 </p>
 
 <p align="center">
