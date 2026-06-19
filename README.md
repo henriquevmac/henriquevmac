@@ -13,9 +13,9 @@
 
 ### About me
 
-- 🔭 Software Engineer at **[Doc.pt](https://doc.pt)**, currently building AI-powered, full-stack features for a healthcare patient-management platform (TypeScript backend, Angular frontend) — including an AI tool that imports 1,000+ patient records from CSV/Excel in minutes.
+- 🔭 Software Engineer at **[Doc.pt](https://doc.pt)**, currently building AI-powered, full-stack features for a healthcare patient-management platform (TypeScript backend, Angular frontend), including an AI tool that imports 1,000+ patient records from CSV/Excel in minutes.
 - 🎓 MSc in Computer Science & Engineering at **Instituto Superior Técnico**, specializing in **Artificial Intelligence & Distributed Systems** (expected 2027).
-- 🤖 I like applying **AI and computer vision** to real problems — from conservation (endangered-species detection) to sports tech.
+- 🤖 I like applying **AI and computer vision** to real problems, from conservation (endangered-species detection) to sports tech.
 - 🌍 Based in Lisbon, Portugal · 🗣️ Portuguese (native), English (C1).
 
 ### Tech I work with
